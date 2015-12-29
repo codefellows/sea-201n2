@@ -15,7 +15,7 @@ Part Time    | Topic
 Week 1 and 2 | Introduction to Web Development
 Week 3 and 4 | Object Oriented Programming and the DOM
 Week 5 and 6 | Interactive Web Design
-Week 7 and 8 | Your Project
+Week 7 and 8 | Project Week!
 
 Check out the full [Table of Contents](SUMMARY.md).
 
