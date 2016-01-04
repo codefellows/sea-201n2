@@ -1,5 +1,5 @@
 # Week 1, Class 6
-[**Week 1 Feedback**](https://canvas.instructure.com/courses/990777/assignments/4230201)
+[**Week 2 Feedback**](https://canvas.instructure.com/courses/990777/assignments/4230201)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder

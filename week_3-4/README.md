@@ -4,11 +4,13 @@
 **Instructors & TA's**
 
 *Instructor*: Scott Schmidt
+
 *Instructor*: Charlie Crawford
 
 *TA's*
 - David Swaintek
 - Brian Ray
+- Daniel Zwelling
 
 ## Week 2 - Daily Plans
 ### Class 07
