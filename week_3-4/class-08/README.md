@@ -20,6 +20,6 @@ In lab today we'll be working on the first draft of our styleguides for Pat. Tak
     - Get more specific, and have some fun! What other CSS properties can you specify??
 
 ## Helpful Resources
-[Problem Domain Document](week_3-4/assets/support.md)
+[Problem Domain Document](../assets/support.md)
 
-[Assignment Assets](week_3-4/assets)
+[Assignment Assets](../assets)

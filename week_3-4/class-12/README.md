@@ -30,6 +30,6 @@ It's time to deploy the living site! When all work is finished and the master br
  - As a developer, I want to ensure that this site looks as professional as possible, using CSS, so I can use this as a portfolio piece
 
 ## Helpful Resources
-[Problem Domain Document](week_3-4/support.md)
+[Problem Domain Document](../assets/support.md)
 
-[Assignment Assets](week_3-4/assets)
+[Assignment Assets](../assets)

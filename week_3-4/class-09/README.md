@@ -25,6 +25,6 @@ In class, we learned how to refactor our cookie stand objects using a constructo
   - This is a large stretch goal. There will be Forms and Events involved, which you are welcome to read ahead on and try to implement.
 
 ## Helpful Resources
-[Problem Domain Document](week_3-4/assets/support.md)
+[Problem Domain Document](../assets/support.md)
 
-[Assignment Assets](week_3-4/assets)
+[Assignment Assets](../assets)

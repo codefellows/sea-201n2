@@ -26,6 +26,6 @@ We will also be replacing the lists of data for each store, and implementing a t
  - As a user, I want to be able to update data that is already available on the page, so that I do not have to have the developer manually remove and rewrite data.
 
 ## Helpful Resources
-[Problem Domain Document](week-2/support.md)
+[Problem Domain Document](../support.md)
 
-[Assignment Assets](week-2/assets)
+[Assignment Assets](../assets)
