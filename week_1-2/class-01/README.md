@@ -18,11 +18,10 @@ In class, we wrote a program that accepted user input and, based on that input, 
  - As a developer, I want to use a simple online tool to share my code, so that I can get all the points!
 
 ## Technical Requirements
- - Work will be done in a Gist; link to Gist submitted for assignment
+ - Work will be done in an HTML file in Atom, and then submitted via Canvas (copy and paste into submission)
  - Good use of HTML; e.g. 'body', 'doctype', 'p', 'head', 'html', 'h1', and 'title'
  - HTML is cleanly written and indented for readability and organization
  - JavaScript written to alert the user in a "Hello, World" type of script
 
 ## Helpful Resources
 - [**Supporting Information**](support.md)
-- [Flowchart Outline](http://thoughtfullearning.com/inquireHSbook/pg18)
