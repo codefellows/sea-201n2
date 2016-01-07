@@ -15,7 +15,6 @@ In class, we wrote a program that accepted user input and, based on that input, 
 ## User Stories (MVP)
  - As a developer, I want to use basic markup to structure my index.html page, so the layout is in the order of assembly I prefer
  - As a developer, I want to receive and use the user's name, so that the program is personalized to their experience.
- - As a developer, I want to use a simple online tool to share my code, so that I can get all the points!
 
 ## Technical Requirements
  - Work will be done in an HTML file in Atom, and then submitted via Canvas (copy and paste into submission)
