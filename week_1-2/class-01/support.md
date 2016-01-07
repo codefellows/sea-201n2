@@ -31,14 +31,3 @@ Like we did we did in class, write JavaScript inside of script tags (placed at t
 - Returns an 'alert' box with a message that contains that user name somewhere in the middle (“Good to meet you, Homer, enjoy your doughnuts!” or the like)
 - Adapt the message to something different than what we did in class
 
-### GitHub Gists
-Gist is powered by the Ace editor, which supports syntax highlighting, indentation awareness, multiple cursors, and many more features. You can also drag and drop a file of code from your desktop directly into the gist editor.
-
-If you are signed in to GitHub when you create a gist, the gist will be associated with your account and you will see it in your list of gists when you navigate to [your gist home page](https://gist.github.com/).
-
-- The name of your Gist file should be `index.html` (the file extension `.html` will cause Gist to highlight your code with colored syntax).
-- Type an optional description and name for your gist.
-- Type the text of your gist (paste your code from Atom) into the gist text box.
-- To create a secret gist that is not searchable by other users, click Create secret Gist.
-
-Finally, copy the URL (internet address) to your Gist, and past into the Canvas assignment for submission.
