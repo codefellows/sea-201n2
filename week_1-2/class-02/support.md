@@ -21,6 +21,7 @@
 ###Create a new GitHub Repository
 If you have not already, create a new GitHub Repository called guessing-game on GitHub, and clone that repository to your local computer. Your cloned repository folder should be inside your class assignments folder (codefellows or projects or whatever).
 
+###Scaffold your guessing game
 Inside of the guessing-game directory on your computer, create an index.html file or move your existing file to this folder.
 
 Make it look similar to the one we created in class today:
