@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Guessing Game Demo</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <p>My name is Scott.</p>
+    <script>
+      var userName = prompt('Hello, What\'s your name?'); //Ask the user for a name
+      alert("Hello, " + userName + " very nice to meet you"); //Popup box that uses the value stored in 'userName'
+
+      console.log('This is the userName variable: ' + userName); //Console message that displays a good message and the value of 'userName'
+
+      // If / Else If / Else conditionals that evaluate a string value againse the value of 'userName'
+      if (userName === 'Scott') {
+        console.log('Scott is correct.');
+      } else if (userName === 'Molly') {
+        console.log('Molly is correct.');
+      } else {
+        console.log('You didn\'t guess the correct name.');
+        console.log('Hello World.');
+      };
+
+      // Other code below the conditional code blocksxs will evaluate after a True evaluation in the If / Else If / Else
+
+    </script>
+  </body>
+</html>
