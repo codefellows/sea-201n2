@@ -1,5 +1,15 @@
 # Code 201: Foundations of Software Development
 Welcome to sea-201n2!
+**Instructors & TA's**
+
+*Instructor*: Scott Schmidt
+
+*Instructor*: Charlie Crawford
+
+*TA's*
+- David Swaintek
+- Brian Ray
+- Daniel Zwelling
 
 # Introduction
 Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.

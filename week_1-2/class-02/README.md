@@ -10,15 +10,15 @@ Today we will be using the code we wrote in the last class as an example for cre
 [Submit Your Work](https://canvas.instructure.com/courses/990777/assignments/4230006)
 
 ## User Stories (MVP)
- - As a developer, I want to create a simple script for my index.html page using JavaScript, so that I can use the browser to send a response to the user
+ - As a developer, I want to create a simple webpage, so that my users can interact with my game.
  - As a developer, I want to provide three questions to the user, so that they can guess the answer and get to know me.
  - As a developer, I want to notify the user after each question, so they are aware whether they were correct or not in their answers.
  - As a developer, I want to debug my code using well structured console messages
- - As a developer, I want to manage my code online through an online version control system, so I have the ability to work with others and manage my revisions
+ - As a developer, I want to manage my code through an online version control system, so I have the ability to work with others and manage my revisions
 
 ## Technical Requirements
  - A Github Repo has been created for this assignment, and cloned to the local machine
- - Directories and file structure are organized with best practices; e.g. Folder called "class-01" and file called "index.html"
+ - Directories and file structure are organized with best practices; e.g. Folder called "week_1-2" and file called "index.html"
  - HTML and JavaScript are cleanly written with correct indentation and syntax
  - Console.log messages are well written and correctly displaying to the browser console
  - **Add, Commit, Push** process is being followed; evident in GitHub that commits are made regularly, and with good commit messages
