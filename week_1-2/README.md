@@ -5,8 +5,6 @@
 
 *Instructor*: Scott Schmidt
 
-*Instructor*: Charlie Crawford
-
 *TA's*
 - David Swaintek
 - Brian Ray
