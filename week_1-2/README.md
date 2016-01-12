@@ -43,12 +43,13 @@
 6. README.md / Documentation
 
 ###Class 04
-1. Code Review
+1. Code Review & Survey Comments
 2. Functions
 
 +++BREAK+++
 
 3. HTML Links
+4. Pair Programming Basics
 
 ###Class 05
 1. Code Review & D.R.Y
