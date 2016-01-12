@@ -49,7 +49,8 @@
 +++BREAK+++
 
 3. HTML Links
-4. Pair Programming Basics
+4. Basic DOM Manipulation
+5. Pair Programming Basics
 
 ###Class 05
 1. Code Review & D.R.Y
