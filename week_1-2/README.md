@@ -53,13 +53,14 @@
 5. Pair Programming Basics
 
 ###Class 05
-1. Code Review & D.R.Y
-2. Introduction to CSS
+1. Code Review
+2. HTML5 / Semantics vs Style
+3. Introduction to CSS
 
 +++BREAK+++
 
-3. HTML Lists
-4. Pair Programming
+4. HTML Lists
+5. Pair Programming
 
 ###Class 06
 1. Code Review
