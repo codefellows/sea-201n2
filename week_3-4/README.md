@@ -13,12 +13,13 @@
 ## Week 2 - Daily Plans
 ### Class 07
 1. Code Review
-2. Domain Modeling
+2. Reminder - .gitignore files
+3. Domain Modeling
 
 +++BREAK+++
 
-3. Object Literals
-4. DOM Rendering (lists)
+4. Object Literals
+5. DOM Rendering (lists)
 
 ###Class 08
 1. Code Review
