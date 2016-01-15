@@ -55,12 +55,13 @@
 ###Class 05
 1. Code Review
 2. HTML5 / Semantics vs Style
-3. Introduction to CSS
+3. HTML Lists
 
 +++BREAK+++
 
-4. HTML Lists
+4. Introduction to CSS
 5. Pair Programming
+6. (if we have time) What languages / courses interest you?
 
 ###Class 06
 1. Code Review
@@ -71,3 +72,4 @@
 3. Color
 3. Images
 4. Deployment
+5. Sneak peek week 3-4
