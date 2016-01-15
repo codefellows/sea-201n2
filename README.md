@@ -4,8 +4,6 @@ Welcome to sea-201n2!
 
 *Instructor*: Scott Schmidt
 
-*Instructor*: Charlie Crawford
-
 *TA's*
 - David Swaintek
 - Brian Ray

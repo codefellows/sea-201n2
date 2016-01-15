@@ -1,0 +1,54 @@
+/*@import url(https://fonts.googleapis.com/css?family=Lobster);*/
+/* This is another way to import google fonts (rather than link tag in html) */
+
+* {
+  color: blue;
+}
+
+html {
+
+}
+
+h1 {
+  background-color: pink;
+}
+
+p {
+  font-family: 'Lobster', cursive;
+}
+
+#headerOne {
+
+}
+
+.header, .bacon {
+
+}
+
+.bacon {
+
+}
+
+.list > li {
+
+}
+
+.list section {
+
+}
+
+li[hidden] {
+
+}
+
+li:hover {
+  cursor: crosshair;
+}
+
+li:link {
+
+}
+
+li:visited {
+
+}

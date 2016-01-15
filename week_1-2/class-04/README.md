@@ -12,13 +12,15 @@ Today will be your first exercise in **pair programming**. You will be assigned 
 ## User Stories (MVP)
  - As a developer, I want my code written in a modular way, so that I can reuse functionality without duplicating code.
  - As a developer, I want to work with a partner, so that we can write code more efficiently and effectively.
+ - As a developer, I want to link to my partner's repository from my web page, so I can cite our efforts toward improving each other's code.
  - As a developer, I want my user to see the answers and responses on the web page, so we do not have to constantly interact with alerts.
 
 ## Technical Requirements
  - Updated and cleanly documented README, including partner's name and link to their repository
  - Game functionality is encapsulated in functions
+ - Good use of external links to partner's repository
  - Alerts have been removed from the game, and replaced by printing answers to the DOM.
- - Partners have forked, completed work, and then submitted a pull request back to the source repo.
+ - Partners have forked, completed work, and then submitted a pull request back to the source repo
 
 ## User Stories (Stretch)
 - As a developer, I want to add a sixth question to my game, which has multiple possible answers (hint: using an array and for loop)

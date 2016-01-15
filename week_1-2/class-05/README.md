@@ -10,7 +10,7 @@ Today will be your second exercise in pair programming. You will be assigned to 
 [Submit Your Work](https://canvas.instructure.com/courses/990777/assignments/4229999)
 
 ## User Stories (MVP)
- - As a developer, I want to apply D.R.Y. to my code, so that I do not have duplicate and unnecessary code.
+ - As a developer, I want to further apply D.R.Y. to my code, so that I do not have duplicate and unnecessary code.
  - As a developer, I want to add some basic styling to my site, so that I can increase the happiness and engagement of my users.
  - As a member of a team, I want to list a link to my partner's repository on my page, so the world knows that we worked in harmony together
 

@@ -43,21 +43,25 @@
 6. README.md / Documentation
 
 ###Class 04
-1. Code Review
+1. Code Review & Survey Comments
 2. Functions
 
 +++BREAK+++
 
 3. HTML Links
+4. Basic DOM Manipulation
+5. Pair Programming Basics
 
 ###Class 05
-1. Code Review & D.R.Y
-2. Introduction to CSS
+1. Code Review
+2. HTML5 / Semantics vs Style
+3. HTML Lists
 
 +++BREAK+++
 
-3. HTML Lists
-4. Pair Programming
+4. Introduction to CSS
+5. Pair Programming
+6. (if we have time) What languages / courses interest you?
 
 ###Class 06
 1. Code Review
@@ -68,3 +72,4 @@
 3. Color
 3. Images
 4. Deployment
+5. Sneak peek week 3-4
