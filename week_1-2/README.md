@@ -64,7 +64,7 @@
 6. (if we have time) What languages / courses interest you?
 
 ###Class 06
-1. Code Review
+1. Code Review & Monday Lab Reminder
 2. Arrays
 
 +++BREAK+++

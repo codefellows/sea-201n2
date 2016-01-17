@@ -7,7 +7,7 @@
 * ["Images" (HTML & CSS, Ch. 5)](https://canvas.instructure.com/courses/990777/assignments/4229989)
 
 # Assignment for Class
-Today will be your third exercise in pair programming. You will be assigned to work with a partner, and the two of you will work on and extend each other's guessing games.
+In this assignment you will be further extending your guessing game by including images and working with colors. Once complete you'll be working to deploy your code to the interwebs!
 
 [Submit Your Work](https://canvas.instructure.com/courses/990777/assignments/4230043)
 
