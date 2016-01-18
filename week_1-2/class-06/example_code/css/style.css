@@ -1,0 +1,16 @@
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+p {
+  border: 1px solid blue;
+  box-shadow: 3px -6px 30px rgb(255, 0, 0);
+}
+
+img {
+  width: 150px;
+}

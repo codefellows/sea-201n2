@@ -70,6 +70,6 @@
 +++BREAK+++
 
 3. Color
-3. Images
-4. Deployment
-5. Sneak peek week 3-4
+4. Images
+5. Deployment
+6. Sneak peek week 3-4
