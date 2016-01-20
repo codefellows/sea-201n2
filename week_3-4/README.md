@@ -1,6 +1,6 @@
 # sea-201n2
 ## Weeks 3-4 night and weekend track:
-### Introduction to Web Development
+### Object Oriented Programming & the DOM
 **Instructors & TA's**
 
 *Instructor*: Scott Schmidt
@@ -12,14 +12,17 @@
 
 ## Week 2 - Daily Plans
 ### Class 07
-1. Code Review
-2. Reminder - .gitignore files
+1. Reminders:
+  1. arrays & for key in array syntax
+  2. `git init` & `.gitignore` file
+2. Code Review & Survey Responses
 3. Domain Modeling
+4. Object Literals
 
 +++BREAK+++
 
-4. Object Literals
 5. DOM Rendering (lists)
+6. New repo using `git init`
 
 ###Class 08
 1. Code Review
