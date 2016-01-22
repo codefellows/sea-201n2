@@ -25,12 +25,12 @@
 6. New repo using `git init`
 
 ###Class 08
-1. Code Review
+1. Code Review & JS WAT!
 2. Style guides
 
 +++BREAK+++
 
-3. Document Object Model
+3. Document Object Model & DOM Methods
 
 ###Class 09
 1. Code Review
@@ -41,7 +41,7 @@
 3. Constructor Functions
 
 ###Class 10
-1. Code Review
+1. Code Review & Survey Responses
 2. Events
 3. Forms
 

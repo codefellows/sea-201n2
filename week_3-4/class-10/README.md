@@ -1,4 +1,6 @@
 # Week 3-4, Class 10
+[**Week 3 Feedback**](https://canvas.instructure.com/courses/990777/assignments/4230202)
+*You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
 * ["Events" (JavaScript, Ch. 6)](https://canvas.instructure.com/courses/990777/assignments/4229969)
