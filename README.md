@@ -1,5 +1,6 @@
 # Code 201: Foundations of Software Development
 Welcome to sea-201n2!
+
 **Instructors & TA's**
 
 *Instructor*: Scott Schmidt
@@ -16,7 +17,7 @@ Through studying computer science concepts, such as data structures and algorith
 
 The general course schedule is:
 
-Part Time    | Topic
+**Part Time**    | Topic
 -------------|---------------
 Week 1 and 2 | Introduction to Web Development
 Week 3 and 4 | Object Oriented Programming and the DOM
