@@ -22,11 +22,11 @@
 
 ###Class 15
 1. Code Review
-2.
+2. 
 
 +++BREAK+++
 
-1. Local Storage
+3. Local Storage
 
 ###Class 16
 1. Code Review
