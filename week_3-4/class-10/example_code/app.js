@@ -1,22 +1,27 @@
-// This is a more advanced for loop inside for loop for nested lists
+// Quick overview of how to set up an event listener
+var formEl = document.getElementById('userInfo');
+var nameInput = document.getElementById('name');
+
+formEl.addEventListener('submit', function(event) {
+  event.preventDefault();
+  // Alternative way to get the value out of an input field.
+  // var getName = nameInput.value;
+  console.log(event.target);
+  event.target.name.value = null;
+});
+
+
+
+// This is a quick and dirty example of building a table from array data.
 var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 var weeks = [1, 2, 3, 4];
-var sectionEl = document.getElementById('myList');
-var ulEl = document.createElement('ul');
+var tableEl = document.getElementById('myTable');
+var trEl = document.createElement('tr');
 
 for(month in months) {
-  var liEl = document.createElement('li');
-  liEl.textContent = months[month];
-  var nestedUlEl = document.createElement('ul');
-
-  for(week in weeks) {
-    var nestedLiEl = document.createElement('li');
-    nestedLiEl.textContent = weeks[week];
-    nestedUlEl.appendChild(nestedLiEl);
-  }
-
-  liEl.appendChild(nestedUlEl);
-  ulEl.appendChild(liEl);
+  var tdEl = document.createElement('td');
+  tdEl.textContent = months[month];
+  trEl.appendChild(tdEl);
 }
 
-sectionEl.appendChild(ulEl);
+tableEl.appendChild(trEl);
