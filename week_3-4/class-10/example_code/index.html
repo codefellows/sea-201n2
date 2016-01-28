@@ -18,6 +18,31 @@
       </form>
     </section>
 
+    <!-- This Style and Script tag will render a dot when/where the mouse is clicks -->
+    <style>
+      /* Add some styling for the dot which will render on click */
+      body {
+        height: 200px;
+        background: beige;
+      }
+      .dot {
+        height: 8px; width: 8px;
+        border-radius: 4px; /* rounds corners */
+        background: blue;
+        position: absolute;
+      }
+    </style>
+    <script>
+      // Add generic event listener to the DOM, listens for clicks
+      addEventListener("click", function(event) {
+        var dot = document.createElement("div");
+        dot.className = "dot";
+        dot.style.left = (event.pageX - 4) + "px";
+        dot.style.top = (event.pageY - 4) + "px";
+        document.body.appendChild(dot);
+      });
+    </script>
+
     <script src="app.js"></script>
   </body>
 </html>
