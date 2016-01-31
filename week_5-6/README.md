@@ -9,31 +9,31 @@
 +++BREAK+++
 
 1. Flexbox
-2.
+2. Write User Stories
 
 ###Class 14
 1. Code Review
-2.'<canvas>' and ChartJS
 
 +++BREAK+++
 
-1.
-2.
+2. `<canvas>` and ChartJS
+3. Write User Stories
 
 ###Class 15
 1. Code Review
-2. 
 
 +++BREAK+++
 
-3. Local Storage
+2. Local Storage
+3. Write User Stories
 
 ###Class 16
-1. Code Review
+1. Code Review & Survey Responses
 
 +++BREAK+++
 
-2.
+2. jQuery Selectors
+3. jQuery DOM Manipulation & Traversal
 
 ###Class 17
 1. Code Review
@@ -41,7 +41,12 @@
 
 +++BREAK+++
 
+3. Linters - esLint & Atom Linter
 
 ###Class 18
 1. Code Review
 2. Form project teams
+
++++BREAK+++
+
+3. Open labs?
