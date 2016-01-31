@@ -1,0 +1,35 @@
+.divistate {
+  border: 1px solid blue;
+}
+
+.boxes {
+  border: 1px dashed red;
+
+  padding: 1%;
+  width: 200px;
+  /*height: 50px;*/
+
+  /*longer handed way of working with margins - T/L/B/R */
+  margin: 10px 10px 10px 10px;
+
+  /*margin: 10px 0 0 0; target only top, and leave the rest at 0 */
+
+  /*margin: 10px (top/btm) 10px (L/R); */
+
+  /*margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;  This is the long hand way for working with individual margin sides */
+}
+
+#boxOne {
+
+}
+
+#boxTwo {
+
+}
+
+#boxThree {
+
+}

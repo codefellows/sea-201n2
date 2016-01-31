@@ -67,3 +67,4 @@
 3. Grid Systems
   - 960 Grid System (fixed)
   - **Skeleton** (fluid)
+4. Animations (If we have time)
