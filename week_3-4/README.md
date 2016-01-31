@@ -13,7 +13,7 @@
 ## Week 2 - Daily Plans
 ### Class 07
 1. Reminders:
-  1. arrays & for key in array syntax
+  1. arrays & `for (key in array) {}` syntax
   2. `git init` & `.gitignore` file
 2. Code Review & Survey Responses
 3. Domain Modeling
