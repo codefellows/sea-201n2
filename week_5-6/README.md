@@ -4,12 +4,13 @@
 ## Week 3 - Daily Plans
 ### Class 13
 1. Code Review & Survey Responses
-2. Voting on Images (random display, event listeners, etc.)
+2. Start thinking about final projects! (examples)
+3. Flexbox
 
 +++BREAK+++
 
-1. Flexbox
-2. Write User Stories
+4. Voting on Images (random display, event listeners, etc.)
+5. Write User Stories
 
 ###Class 14
 1. Code Review
@@ -24,16 +25,15 @@
 
 +++BREAK+++
 
-2. Local Storage
-3. Write User Stories
+2. Challenge Comp Review (CSS PAIR PROJECT)
 
 ###Class 16
 1. Code Review & Survey Responses
 
 +++BREAK+++
 
-2. jQuery Selectors
-3. jQuery DOM Manipulation & Traversal
+2. Local Storage
+3. Write User Stories
 
 ###Class 17
 1. Code Review
@@ -49,4 +49,4 @@
 
 +++BREAK+++
 
-3. Open labs?
+3. Open labs

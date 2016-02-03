@@ -1,0 +1,27 @@
+img {
+  max-width: 50%;
+  float: left;
+}
+section {
+  border: 1px solid blue;
+  width: 400px;
+  padding: 1em;
+  margin: .5em;
+}
+
+.container {
+  display: flex;
+  /*flex-wrap: wrap;*/
+  /*flex-direction: row;*/
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+
+.item {
+  /*Scott: Find / create example case for shrink and basis */
+
+  /*flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;*/
+  flex: 1 0 auto;
+}
