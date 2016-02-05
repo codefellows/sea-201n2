@@ -23,10 +23,11 @@
 ###Class 15
 ** Challenge Comp Review (CSS PAIR PROJECT) **
 1. Code Review (Optional)
+2. Reminder: Terminal is your friend!
 
 +++BREAK+++
 
-2. Labs
+3. Labs
 
 ###Class 16
 1. Code Review & Survey Responses
