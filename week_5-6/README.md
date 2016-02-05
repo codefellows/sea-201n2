@@ -21,14 +21,16 @@
 3. Write User Stories
 
 ###Class 15
-1. Code Review
+** Challenge Comp Review (CSS PAIR PROJECT) **
+1. Code Review (Optional)
 
 +++BREAK+++
 
-2. Challenge Comp Review (CSS PAIR PROJECT)
+2. Labs
 
 ###Class 16
 1. Code Review & Survey Responses
+2. Review Practical Info Chapter - SEO, Static site hosting, etc.
 
 +++BREAK+++
 
@@ -41,11 +43,12 @@
 
 +++BREAK+++
 
-3. Linters - esLint & Atom Linter
+3. jQuery Intro (No assignment) - Selectors, Traversal & Manipulation
+3. Linters - Terminal esLint & Atom esLint
 
 ###Class 18
 1. Code Review
-2. Form project teams
+2. Final Pitches & Form project teams
 
 +++BREAK+++
 

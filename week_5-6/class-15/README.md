@@ -2,46 +2,57 @@
 [**Week 5 Feedback**](https://canvas.instructure.com/courses/990777/assignments/4230204)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
-# Reading Reminder
-* ["The Past, Present & Future of Local Storage for Web Applications" Article](https://canvas.instructure.com/courses/990777/assignments/4229984)
-
 # Assignment for Class
-As we saw in class today, local storage allows you to utilize persistence in the browser to store data for a web application.
+For this assignment you will be building a single webpage based off of the provided design comp assets to emphasize and flex your HTML and CSS muscles.
 
-Your task in lab today: add local storage functionality to your market analysis app so that your vote data will persist beyond a refresh or reload. (Keep working on layout and other details as you choose to, as well.) Local storage is the last major piece of the project: after that, it's just making everything look and function exactly how the marketing team wants.
+Today will be a new exercise in pair programming. You will be assigned to work with a partner, and the two of you will work to build this site as a team (one Driver and one Navigator). Be sure to follow these instructions very carefully.
 
-You'll need some of these commands, as shown in class:
+**PAIRS**
 
-1. `JSON.stringify()`
-2. `localStorage.setItem()`
-3. `localStorage.getItem()`
-4. Or these sites:
-  - http://diveintohtml5.info/storage.html
-  - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+Partner A | Partner B   | Partner C
+----------|-------------|-----------
+Nassir    | Daniel L.   | Stephanie
+Thomas    | Cody        |
+Susan     | Taylor      |  
+Kate      | Matt        |
+Sam       | Serina      |  
+Erin      | Daniel W.   |    
+Lillian   | Megan       |
+Andrew    | Sarah       |
 
-Your goal is to persist your clicking totals by using local storage.
 
-And, continue to refine your UI/UX. Try to view your app from the perspective of someone seeing it for the very first time. What instructions or background would you like to see? Is the navigation clear? How is the feel and flow? What of the feedback to the user... is it interesting and informative?
+_Disclaimer: These may change on Sunday, depending on attendance._
 
-Suggestion: have other people try your app, and try out theirs.
+
+We expect that each person will both Navigate AND Drive about half of the time through this project, so ensure that you plan for this. You will need to both push and pull at least once in the middle to sync your machines, as when you switch roles, you should also switch computers.
+
+###GitHub Repository Setup
+The first Driver will begin by creating a new repository with `git init` and connecting it to GitHub, or by cloning their repository from GitHub. Once the repo is set up, the driver will navigate to the settings section of the GitHub repo (The top right 'tab' of your GitHub Repo page). In Settings, there will be a nav menu on the left; click on Collaborators (You will be asked to validate your login with a password). On the next page, enter your Navigator's username and add them to the repo with push and pull privileges.
+
+The Navigator can now clone the repo (DO NOT FORK; Clone from the Driver's repo) with the additional ability to push and pull directly from the repository.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+###Assignment Overview
+The assets (Base design comp and images) can be found in the [design-comp-assets](/design-comp-assets) folder in this repo. The file "01_preview3.jpg" contains an image of what you are striving to build in HTML and CSS, so be sure to open it up and keep it handy... but note that it is not for actual use on the page.
+
+All of the other image files are assets you will need to realize the design comp. It will be useful to make an inventory of them and where they will go on the page... but how you choose to manage and organize this inventory is up to you and your partner's resourcefulness.
+
+Scaffold your project in a similar manner to how you've done so in the past; using proper file and folder structures.
+
+###Requirements
+Use good HTML structure to scaffold this site. Up to this point. You will need to think about the relationship between parent and child / descendant elements.  
+
+Use CSS to style the page to reflect the full comp image provided. Use what knowledge you have at this point (and any resources you are able to understand and use effectively from other sources) to style your site as closely to the design comp as you can. You have the resources and are aware of online tools which will help you find the right answers! There's some pieces of this that will be new to you... use your combined brainpower to find a solution. On a project like this, something that finishes the basic task is the goal... it can always be refactored with better design and code later.
+
+OPTIONAL: Add some JavaScript functionality! Get creative, but make sure the style is complete before moving onto any additional features.
 
 [Submit Your Work](https://canvas.instructure.com/courses/990777/assignments/4229993)
 
-## User Stories (MVP)
- - As a user, I want x, so that y.
- - As a developer, I want x, so that y.
- - As a designer, I want x, so that y.
-
 ## Technical Requirements
- -
- -
- -
-
-## User Stories (Stretch)
- - As a user, I want x, so that y.
- - As a developer, I want x, so that y.
- - As a designer, I want x, so that y.
+ - Proper setup of repository and collaborator(s)
+ - Both partners participated in Driver/Navigator roles; using branches, regular commits with good messages, and good git workflow
+ - Good and proper use of semantic HTML5, CSS selectors and layout
 
 ## Helpful Resources
-[Problem Domain](../assets/README.md)
-[Raw Image Assets](../assets/imgs)
+[design-comp-assets](/design-comp-assets)
