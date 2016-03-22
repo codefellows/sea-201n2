@@ -45,7 +45,7 @@
 +++BREAK+++
 
 3. jQuery Intro (No assignment) - Selectors, Traversal & Manipulation
-3. Linters - Terminal esLint & Atom esLint
+4. Linters - Terminal esLint & Atom esLint
 
 ###Class 18
 1. Code Review
